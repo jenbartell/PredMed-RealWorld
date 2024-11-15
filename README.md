@@ -1,17 +1,8 @@
-# FromExceltoR
+# Intro to R for Health Data Science
 
-This repository contains the course material for the course `From Excel to R`.
+This repository contains material for a course titled 'Intro to R for Health Data Science'.
 
-Course participants, it would greatly help us if fill out our feedback form (March 2024): https://forms.office.com/e/4RL8XE0s2C
-
-The course material is originally made by Professor Helle Sørensen and Associate Professor Bo Markussen, SCIENCE data lab, Department of Mathematical Sciences at the University of Copenhagen.
-Contact: helle@math.ku.dk or bomar@math.ku.dk   
-
-The introduction presentation is made by, and the course material is edited by Thilde Terkelsen, Academic officer, Center for Health Data Science, Faculty of Health and Medical Sciences, University of Copenhagen.
-Contact: thilde.terkelsen@sund.ku.dk or andrejeva@sund.ku.dk 
+The course material is derived from the 'Excel to R' and 'Foundations of Health Data Science' courses run by KU's SUND Data Lab. 'Excel to R' is derived from material made by Professor Helle Sørensen and Associate Professor Bo Markussen, SCIENCE data lab, Department of Mathematical Sciences at the University of Copenhagen. 'Foundations of Health Data Science' was developed by Thilde Terkelsen and Henrike Zschach, academic officers from Center for Health Data Science, Faculty of Health and Medical Sciences, University of Copenhagen. This version of the course was edited and amended by Jennifer Bartell, senior consultant, Center for Health Data Science, Faculty of Health and Medical Sciences, University of Copenhagen.
 
 The material in this repository is for teaching purposes only and not to be distributed commercially.
 
-
-## Program March 2024
-![image](https://github.com/Center-for-Health-Data-Science/FromExceltoR/blob/2024_Mar/Program.png)
